@@ -1,0 +1,7 @@
+1. Date validation -- all new/rescheduled appointments must be in the future.
+2. Reschedule-validation -- no appointments may be rescheduled within a 48 hour period
+3. Cancellation validation -- no appointments may be cancelled within a 48 hour period
+4. Patient validation -- throw an error if not exist
+5. Doctor validation -- throw an error if not exist
+6. Clinic validation -- throw an error if not exist
+7. Custom exception handling
